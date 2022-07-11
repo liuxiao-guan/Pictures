@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T12:48:42.645Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.4" etag="1ZaRY02nc3AnzVIpJiAT" type="github"><diagram id="uUhIRwJII2Dc9x-m6H8B">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-11T12:50:36.868Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="vKzml7RiUkYK-npN2TCC" version="20.0.4" type="github">
+  <diagram id="uUhIRwJII2Dc9x-m6H8B" name="Page-1">
+    <mxGraphModel dx="1278" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0yK8hHSzg7FP9k2CC4zy-1" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="1">
+          <mxGeometry x="220" y="10" width="390" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="0yK8hHSzg7FP9k2CC4zy-2" value="开发人员" style="swimlane;startSize=20;" vertex="1" parent="0yK8hHSzg7FP9k2CC4zy-1">
+          <mxGeometry y="20" width="130" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="0yK8hHSzg7FP9k2CC4zy-5" value="实现功能并自测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0yK8hHSzg7FP9k2CC4zy-2">
+          <mxGeometry x="15" y="50" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0yK8hHSzg7FP9k2CC4zy-3" value="测试人员" style="swimlane;startSize=20;" vertex="1" parent="0yK8hHSzg7FP9k2CC4zy-1">
+          <mxGeometry x="130" y="20" width="140" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="0yK8hHSzg7FP9k2CC4zy-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="0yK8hHSzg7FP9k2CC4zy-3">
+          <mxGeometry x="15.25" y="50" width="96.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0yK8hHSzg7FP9k2CC4zy-4" value="Lane 3" style="swimlane;startSize=20;" vertex="1" parent="0yK8hHSzg7FP9k2CC4zy-1">
+          <mxGeometry x="270" y="20" width="120" height="460" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
