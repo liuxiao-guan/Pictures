@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T12:58:06.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="w_lN2Poylh0nGFL53DIa" version="21.3.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-31T13:04:48.509Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="TxMhtv_z6dqm-0sqLvoA" version="21.3.6" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="754" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -161,14 +161,20 @@
         <mxCell id="LHaKEkA0ZnGuCLNn09Td-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LHaKEkA0ZnGuCLNn09Td-4" target="LHaKEkA0ZnGuCLNn09Td-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LHaKEkA0ZnGuCLNn09Td-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LHaKEkA0ZnGuCLNn09Td-4" target="LHaKEkA0ZnGuCLNn09Td-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LHaKEkA0ZnGuCLNn09Td-4" value="逻辑系统化知识" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="87.5" y="290" width="95" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="LHaKEkA0ZnGuCLNn09Td-6" value="坚决反对思维排外，视野宽阔，不要功利地学习，建立最可能客观科学的逻辑" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="286.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LHaKEkA0ZnGuCLNn09Td-8" value="筛选知识" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="LHaKEkA0ZnGuCLNn09Td-8" value="筛选知识，找到自己需要的，符合自己短板的，需求匹配的" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="192.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LHaKEkA0ZnGuCLNn09Td-10" value="分辨假知识，来源不确定，差异化，对比方式挑选分辨" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="418.75" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
